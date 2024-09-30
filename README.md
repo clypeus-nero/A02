@@ -27,8 +27,8 @@ When you have 2 codes that when you are merging the rest it will result on a con
 -**Pull**:
   Used to download from a remote repository.
 
--Remote:
+-**Remote**:
   A type of repository used by many, hosted on the internet.
 
--Repository:
+-**Repository**:
   A local storage used to manage changes and developement on code.
